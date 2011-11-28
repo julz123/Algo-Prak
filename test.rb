@@ -4,8 +4,10 @@ class Test
   require 'sinatra'
     
     get '/' do
-      'Hello world! Hallo Julz!'
+      'Hello world! tino jetzt erst recht'
     end
+    
+    
     
     
 end
